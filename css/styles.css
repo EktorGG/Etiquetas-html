@@ -6,7 +6,7 @@
 /* Selector de TODO */
 
 * {
-    background-color: lightgray;
+    background-color: white;
     color: black;
 }
 
@@ -58,4 +58,9 @@ h2 {
     margin: 50px;
     padding: 20px;
 
+}
+
+.personalizada {
+    background-color: darkviolet;
+    color: darkorange;
 }
